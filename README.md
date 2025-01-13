@@ -1,3 +1,7 @@
+## CV
+- CV: [pdf](./CV_without_phone.pdf)
+- last updated at Feb. 2025
+
 ## Blog
 - https://blog.cloneot.dev/
 
