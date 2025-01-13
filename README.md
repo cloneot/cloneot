@@ -5,7 +5,7 @@
 ## Blog
 - https://blog.cloneot.dev/
 
-## Work Experiences
+## Work Experience
 - **NAVER Corp.** Software Engineer Intership (2024)
 
 ## Education
