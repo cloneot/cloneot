@@ -1,9 +1,7 @@
-# Junseo Kim
-
 ## Work Experiences
 - **NAVER Corp.** Software Engineer Intership (2024)
 
-## Educations
+## Education
 - Hanyang University, B.S. in Computer Science (2022-current)
 - Sunrin Internet High School, Department of Software (2019-2022)
 
@@ -16,5 +14,3 @@
 ## Problem Solving
 - solved.ac: [junseo](https://solved.ac./profile/junseo)
 - codeforces: [junseo](https://codeforces.com/profile/junseo)
-
-
