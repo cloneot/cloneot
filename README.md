@@ -1,3 +1,6 @@
+## Blog
+- https://blog.cloneot.dev/
+
 ## Work Experiences
 - **NAVER Corp.** Software Engineer Intership (2024)
 
@@ -12,5 +15,5 @@
 - 2020 **Korea Olympiad in Informatics** Silver award
 
 ## Problem Solving
-- solved.ac: [junseo](https://solved.ac./profile/junseo)
+- solved.ac: [junseo](https://solved.ac/profile/junseo)
 - codeforces: [junseo](https://codeforces.com/profile/junseo)
