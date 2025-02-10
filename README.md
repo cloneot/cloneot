@@ -19,5 +19,9 @@
 - 2020 **Korea Olympiad in Informatics** Silver award
 
 ## Problem Solving
-- solved.ac: [junseo](https://solved.ac/profile/junseo)
 - codeforces: [junseo](https://codeforces.com/profile/junseo)
+- solved.ac: [junseo](https://solved.ac/profile/junseo)
+
+[![codeforces profile](http://cf.leed.at?id=junseo)](https://codeforces.com/profile/junseo)
+<br>[![junseo - solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=junseo)](https://solved.ac/profile/junseo)  
+
