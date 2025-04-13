@@ -1,11 +1,12 @@
 ## CV
 - CV: [pdf](./CV_without_phone.pdf)
-- last updated at Jan. 2025
+- last updated at Apr. 2025
 
 ## Blog
 - https://blog.cloneot.dev/
 
 ## Work Experience
+- **Channel Corp.** Software Engineer (2025-current)
 - **NAVER Corp.** Software Engineer Intership (2024)
 
 ## Education
