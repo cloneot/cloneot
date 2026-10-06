@@ -1,13 +1,13 @@
 ## CV
 - CV: [pdf](./CV_without_phone.pdf)
-- last updated at Apr. 2025
+- last updated in Oct. 2026
 
 ## Blog
 - https://blog.cloneot.dev/
 
 ## Work Experience
 - **Channel Corp.** Software Engineer (2025-current)
-- **NAVER Corp.** Software Engineer Intership (2024)
+- **NAVER Corp.** Software Engineer Internship (2024)
 
 ## Education
 - Hanyang University, B.S. in Computer Science (2022-current)
